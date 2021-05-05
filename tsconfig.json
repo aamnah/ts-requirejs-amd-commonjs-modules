@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "enableAutoDiscovery": true,
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "amd",
+    "sourceMap": true,
+    "lib": ["ESNext", "dom"]
+  }
+}
